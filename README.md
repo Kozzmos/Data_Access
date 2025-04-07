@@ -2,8 +2,6 @@
 
 This repository provides a set of tools for accessing and manipulating data stored in MongoDB databases using Python. It includes functionalities for querying MongoDB collections using regular expressions (regex).
 
-This repository is still a work in progress
-
 ## Features
 
 - **MongoDB Integration**: Connect to and interact with MongoDB databases.
